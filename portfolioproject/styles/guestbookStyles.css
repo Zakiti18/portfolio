@@ -1,0 +1,46 @@
+/*
+guestbookStyles.css
+Phillip Ball
+02/01/2021
+
+ */
+
+body{
+    background-color: honeydew;
+}
+
+.container{
+    background-color: whitesmoke;
+}
+
+.err{
+    display: none;
+    color: red;
+}
+
+#emailformat{
+    display: none;
+}
+
+fieldset{
+    border: green solid 1px;
+    border-radius: 25px;
+    border-top: none;
+}
+
+#othertextbox{
+    display: none;
+    width: 185px;
+}
+
+#row1{
+    width: 80%;
+}
+
+#row2{
+    width: 60%;
+}
+
+#row3{
+    width: 40%;
+}

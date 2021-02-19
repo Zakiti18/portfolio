@@ -1,0 +1,31 @@
+body{
+    background-color: honeydew;
+}
+
+.container{
+    background-color: whitesmoke;
+}
+
+#theTable_wrapper{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 1px black;
+}
+
+#theTable_length{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#theTable_filter{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#theTable_info{
+    margin-left: 5px;
+}
+
+#theTable_paginate{
+    margin-bottom: 5px;
+}

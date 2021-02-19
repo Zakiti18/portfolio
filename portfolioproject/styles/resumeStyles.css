@@ -1,0 +1,36 @@
+/*
+resumeStyles.css
+Phillip Ball
+02/01/2021
+
+ */
+
+body{
+    background-color: honeydew;
+}
+
+div{
+    background-color: whitesmoke;
+}
+
+header{
+    background-color: #e9ecef;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+#linksleft, #linksright{
+    margin-top: auto;
+    margin-bottom: auto;
+    border: solid white;
+    border-radius: 25px;
+    padding-top: 15px;
+}
+
+section{
+    border-bottom: green solid 1px;
+    border-radius: 5px;
+}
